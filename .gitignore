@@ -1,0 +1,6 @@
+*.env
+config-dev.json
+config.json
+DataBaseConfig-dev.json
+DataBaseConfig.json
+__pycache__
