@@ -1,0 +1,7 @@
+{
+    "ID DO SERIVODR": {
+        "ReportChannel": "ID DO CANAL DE DENUNCIAS -> COMO UM VALOR INTEIRO <-",
+        "PDFFormNames": ["Nome", "Raça", "Origem", "Classe", "ND", "Divindade", "PV", "PM", "PerAcroTot", "PerAdesTot", "PerAtleTot", "PerAtuaTot", "PerCavaTot", "PerConhTot", "PerCuraTot", "PerDiplTot", "PerEngaTot", "PerFortTot", "PerFurtTot", "PerGuerTot", "PerInicTot", "PerIntiTot", "PerIntuTot", "PerInveTot", "PerJogaTot", "PerLadiTot", "PerLutaTot", "PerMistTot", "PerNobrTot", "PerOficTot1", "PerOficTot2", "PerOficTot3", "PerOficTot4", "PerExtrTot", "PerExtrTot2", "PerOficTot7", "PerPercTot", "PerPiloTot", "PerPontTot", "PerReflTot", "PerReliTot", "PerSobrTot", "PerVontTot", "DefTot", "Teste de Resistência", "Ofício 1", "Ofício 2", "Ofício 3", "Ofício 4", "Perícia Extra", "Perícia Extra 2", "Ofício 7"],
+        "SheetLimit": 3
+    }
+}

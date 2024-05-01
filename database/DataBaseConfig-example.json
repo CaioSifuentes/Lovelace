@@ -1,0 +1,9 @@
+[
+    {
+      "PUT YOUR FIREBASE IN A DICT LIKE THIS ONE": ""
+    },
+  
+    {
+      "databaseURL": "CHANGE-ME TO YOUR FIREBASE DB LINK"
+    }
+  ]
