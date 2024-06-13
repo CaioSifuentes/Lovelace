@@ -10,7 +10,8 @@ extensionList = [
     'pericias.randomskill',
     'pericias.secondskill',
     'recompensas.reward',
-    'fichas.sheet' 
+    'fichas.sheet',
+    'dominios.land'
 ]
 for extension in extensionList:
     client.load_extension("app." + extension + "command")
